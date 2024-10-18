@@ -131,10 +131,14 @@ time.html
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-03-26 182622.png>)
 
 
-![alt text](<Screenshot 2024-03-26 182801.png>)
+![Screenshot (534)](https://github.com/user-attachments/assets/b12ea71e-551a-4955-a5b5-8859717d6abe)
+
+![Screenshot (535)](https://github.com/user-attachments/assets/f92ad2c6-f486-4594-8221-e548ff95757c)
+
+
+
 
 
 ## RESULT
